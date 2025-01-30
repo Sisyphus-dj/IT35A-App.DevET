@@ -14,7 +14,19 @@ SITUATION
 
 PRODUCT/PERFORMANCE/OUTPUT
 1. OBJECTIVE
+- APP NAME: AgriSync - a platform that enables farmers to connect with with buyers, agricultural experts, and sustainable farming resources.
+- Purpose: This app would help farmers reduce food waste, crop production costs for purchasing pesticides and equipments (due to location and distance), improve food security, and support sustainable agriculture by bridging the gap between farmers and consumers.
+- Problem: Farmers may not have the means to access information they needed to improve their crop productions leading to poor crop quality and shortage of harvests crops.
+- Solution: This application will help farmers sell directly to consumers, access expert advice, and learn eco-friendly farming methods.
+
 2. KEY SDGs TARGETED
+- SDG 2: ZERO HUNGER - Helps increase food production and access to fresh food.
+        - this will help the farmers earn what they deserved and people won't need to go far to buy food.
+- SDG 8: DECENT WORK AND ECONOMIC GROWTH - Supports small-scale farmers by ensuring fair trade opportunities.
+        - this will help our farmers to be able to compete on the market fairly and provides them with costumer.
+- SDG 12: RESPONSIBLE CONSUMPTION AND PRODUCTION - Reduces food waste by connecting farmers directly with buyers.
+        - the food produced by our local farmers will be bought and not go to waste.
+
 3. KEY FEATURES
 4. TECHNICAL ARCHITECTURE
 5. RESEARCH AND EVIDENCE
